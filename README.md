@@ -14,7 +14,7 @@ I work on real hardware systems where firmware, electronics, and robotics softwa
 
 ## Featured Work
 
-### Krysalis Hand
+### [Krysalis Hand Case Study](https://github.com/vadimfedorovsv/krysalis-hand-case-study)
 
 Embedded firmware and electronics debugging for a 19-DOF humanoid robotic hand research platform.
 
@@ -28,9 +28,9 @@ Highlights:
 
 Python-based EEG/BCI research tooling for signal acquisition, preprocessing, feature extraction, visualization, and control-output prototyping.
 
-### BCI Prosthetic Leg
+### [BCI Prosthetic Leg Control](https://github.com/vadimfedorovsv/bci-prosthetic-leg-control)
 
-Prototype control pipeline connecting EEG/BCI signal features to assistive robotic motion commands.
+Public robotics/BCI portfolio project for EEG motor-imagery decoding and safe actuator trigger testing.
 
 ## Technical Stack
 
@@ -43,5 +43,7 @@ BCI/Signals: EEG, signal processing, filtering, feature extraction
 ## Links
 
 - LinkedIn: https://www.linkedin.com/in/vadim-fedorov-sv/
+- BCI Prosthetic Leg Control: https://github.com/vadimfedorovsv/bci-prosthetic-leg-control
+- Krysalis Hand Case Study: https://github.com/vadimfedorovsv/krysalis-hand-case-study
 - Portfolio: coming soon
 - Demo videos: coming soon

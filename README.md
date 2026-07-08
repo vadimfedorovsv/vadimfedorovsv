@@ -24,9 +24,15 @@ Highlights:
 - Contributed to PCB-level improvements including pull-up resistor selection and voltage regulation
 - Integrated embedded firmware work with ROS2/micro-ROS robotics pipelines
 
-### PyBCI EEG Research Platform
+### PyBCI EEG Research Platform - Contributor
 
-Python-based EEG/BCI research tooling for signal acquisition, preprocessing, feature extraction, visualization, and control-output prototyping.
+Contributed to a Python-based BCI research platform by working on the livestreaming page for real-time board data. My work focused on the plotting stack and acquisition controls that make it possible to start, pause, save, and end board-streaming recordings through the interface.
+
+Focus areas:
+- Real-time BCI board streaming
+- Live signal plotting and visualization
+- Recording controls for start, pause, save, and end workflows
+- Hardware-connected Python research tooling
 
 ### [BCI Prosthetic Leg Control](https://github.com/vadimfedorovsv/bci-prosthetic-leg-control)
 
